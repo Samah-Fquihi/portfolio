@@ -1,3 +1,3 @@
 function myFunction() {
-    window.open('CV-SAMAH FQUIHI.pdf')
+    window.open('CV-Samah FQUIHI.pdf')
   }
